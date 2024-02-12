@@ -1,0 +1,1 @@
+ C:\\Users\\fionf\\OneDrive\\Documents\\tugas\\Stuped\\Futter\\sianu\\.dart_tool\\flutter_build\\82e9cb681ac5b53053175545882d001f\\native_assets.yaml: 
